@@ -13,4 +13,4 @@
 
 ### Отношения таблиц
 
-![alt text](tables.png)
+![alt text](../tables.png)
